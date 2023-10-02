@@ -31,3 +31,6 @@ You can access a live demo of the Meme Generator App [Here](https://meme-generat
 
  - React.js
  - React Router
+ - CSS
+ - Javas
+ - JavaScript
