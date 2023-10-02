@@ -1,0 +1,24 @@
+.home {
+    background-color: #af3104;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.copy {
+    background-color: #0063db;
+    margin-top: 20px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.container {
+    margin-top: 50px;
+    display:grid;
+    
+}
+
+img {
+    border-radius: 5px;
+}

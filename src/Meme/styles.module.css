@@ -1,0 +1,43 @@
+.container {
+    margin-top: 20px;
+    
+}
+
+.skip {
+    background-color: #af3104;
+ border-radius: 5px;
+ font-size: 20px;
+ font-weight: bold;
+}
+.skip:hover {
+    background-color: #8f2904;
+    border-radius: 5px;
+}
+
+.generate {
+    margin-top:50px ;
+    background-color: #0063db;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.generate:hover {
+    background-color: #0156be;
+    border-radius: 5px;
+}
+
+input{
+    border-radius: 5px;
+}
+
+
+img {
+    border-radius: 5px;
+}
+
+@media only screen and (max-width: 480px) {
+    img {
+    width: 90%;
+    }
+    }

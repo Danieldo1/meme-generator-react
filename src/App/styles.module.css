@@ -1,0 +1,12 @@
+h2 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-align: center;
+    color:#ffffff;
+    font-family: 'Impact', sans-serif;
+    text-shadow: -1px 1px 0 #000,
+    5px 5px 0 #000,
+   4px -4px 0 #000,
+  -4px -4px 0 #000;
+}
+
